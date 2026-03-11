@@ -19,11 +19,12 @@ redirect_from:
 <!-- Hi there,  -->
 I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/) and co-advised by [Prof. Lu (Eric) Zhang](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
 
-My research focuses on **agentic reasoning** and **reasoning through learning** with large language models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); (
+My research focuses on **agentic reasoning** and **reasoning through learning** with large language models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); 
+<!-- ( -->
 <!-- 2) learning to reason via reinforcement learning—including reward propagation in agentic state graphs [[RewardFlow]](https://openreview.net/pdf?id=5oGJbM5u86), dynamic policy optimization for multi-turn interactive reasoning [[DyPO]](https://openreview.net/pdf?id=OWDBiMKYdo), and self-supervised RL for eliciting reasoning [[Co-rewarding]](https://arxiv.org/pdf/2508.00410); -->
 (2) understanding and benchmarking reasoning—such as visualizing LLM reasoning processes [[Landscape of thoughts]](https://arxiv.org/pdf/2503.22165), active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295), and robust multi-agent debate with memory masking [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
 
-*Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.*
+<!-- *Feel free to email [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) and [me](mailto:xiaofeng@comp.hkbu.edu.hk) to discuss collaboration opportunities.* -->
 
 E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
@@ -39,7 +40,7 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
+<img src='/images/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System  
@@ -61,7 +62,7 @@ Technical Report.
 
 <!-- ICML 2025 AR-Bench -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/AR-Bench.png' alt="sym" width="100%"></div></div>
+<img src='/images/figures/AR-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Passive to Active Reasoning: Can Large Language Models Ask the Right Questions under Incomplete Information?  
@@ -70,7 +71,7 @@ ICML 2025.
 [[paper]](https://arxiv.org/pdf/2506.08295)
 [[code]](https://github.com/tmlr-group/AR-Bench)
 [[slides]](https://docs.google.com/presentation/d/1lFvnGzM6QsVUFlOe_CM6WqX8qPnNMtMkoefObJv4FAA/edit?usp=sharing)
-[[poster]](/_pages/data/poster-ARBench.pdf)
+[[poster]](/images/poster-ARBench.pdf)
 [[EN-video]](https://recorder-v3.slideslive.com/?share=102661&s=59c868a3-9715-4031-a690-6128a9befc18)
 [[CN-video]](https://www.bilibili.com/video/BV1i4KozXETv/)
 [[CN-blog]](https://mp.weixin.qq.com/s/zU8HcZ1q9Dt0KfTRPNcowg)
@@ -80,7 +81,7 @@ ICML 2025.
 
 <!-- Landscape of thoughts -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/Landscape.png' alt="sym" width="100%"></div></div>
+<img src='/images/figures/Landscape.png' alt="sym" width="100%"></div></div>
 <!-- <img src='/_pages/data/poster-landscape.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
@@ -91,8 +92,8 @@ ICLR 2026.
 [[paper]](https://arxiv.org/pdf/2503.22165)
 [[code]](https://github.com/tmlr-group/landscape-of-thoughts)
 [[tutorial]](https://www.youtube.com/watch?v=Zb8CfYxSvik)
-[[slides]](/_pages/data/slides-landscape.pdf)
-[[poster]](/_pages/data/poster-landscape.pdf)
+[[slides]](/images/slides-landscape.pdf)
+[[poster]](/images/poster-landscape.pdf)
 <!-- [[EN-video]]() -->
 <!-- [[CN-video]]() -->
 <!-- [[CN-blog]]() -->
@@ -141,7 +142,7 @@ ICML 2025 Workshop on Programmatic Representations for Agent Learning.
 
 <!-- Multi-Agent Debate with Memory Masking - Feng's own, placeholder figure -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/madmm.png' alt="sym" width="100%"></div></div>
+<img src='/images/figures/madmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-Agent Debate with Memory Masking (MAD-M²).  
@@ -271,5 +272,5 @@ I benefit a lot from these awesome materials. Thanks!
 
 <!-- <div align=center> -->
 <!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=tt&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
-<a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a>
+<!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
 <!-- </div> -->
