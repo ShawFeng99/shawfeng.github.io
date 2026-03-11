@@ -19,7 +19,7 @@ redirect_from:
 <!-- Hi there,  -->
 I am Xiao Feng, a Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, fortunate to be advised by [Prof. Bo Han](https://bhanml.github.io/) and co-advised by [Prof. Lu (Eric) Zhang](https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang), and working with [Prof. Jiangchao Yao](https://sunarker.github.io/).
 
-My research focuses on **agentic reasoning** and **reasoning through learning** with large language models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); 
+My research focuses on **agentic reasoning and learning** with foundation models. I work on: (1) building agentic systems that orchestrate foundation models and tools for complex tasks [[AlphaApollo]](https://arxiv.org/pdf/2510.06261); 
 <!-- ( -->
 <!-- 2) learning to reason via reinforcement learning—including reward propagation in agentic state graphs [[RewardFlow]](https://openreview.net/pdf?id=5oGJbM5u86), dynamic policy optimization for multi-turn interactive reasoning [[DyPO]](https://openreview.net/pdf?id=OWDBiMKYdo), and self-supervised RL for eliciting reasoning [[Co-rewarding]](https://arxiv.org/pdf/2508.00410); -->
 (2) understanding and benchmarking reasoning—such as visualizing LLM reasoning processes [[Landscape of thoughts]](https://arxiv.org/pdf/2503.22165), active reasoning under incomplete information [[AR-Bench]](https://arxiv.org/pdf/2506.08295), and robust multi-agent debate with memory masking [[MAD-M²]](https://openreview.net/pdf?id=EdTt8nMAMA).
