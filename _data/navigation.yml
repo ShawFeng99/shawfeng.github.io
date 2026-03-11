@@ -1,21 +1,21 @@
-main:
-  - title: "About"
-    url: "/#about-me"
+main: []
+  # - title: "About"
+  #   url: "/#about-me"
 
-  - title: "Education"
-    url: "/#-education-and-experience"
+  # - title: "Education"
+  #   url: "/#-education-and-experience"
 
-  - title: "Publication"
-    url: "/#-selected-publications"
+  # - title: "Publication"
+  #   url: "/#-selected-publications"
 
-  - title: "Award"
-    url: "/#-awards"
+  # - title: "Award"
+  #   url: "/#-awards"
 
-  - title: "Talk"
-    url: "/#-talks"
+  # - title: "Talk"
+  #   url: "/#-talks"
 
-  - title: "Service"
-    url: "/#-services"
+  # - title: "Service"
+  #   url: "/#-services"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  # - title: "Teaching"
+  #   url: "/#-teaching"

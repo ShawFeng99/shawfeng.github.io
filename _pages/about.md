@@ -166,7 +166,7 @@ ICLR 2026.
 # 💻 Services
 <!-- Add your service activities here -->
 - **Conference Reviewer:** NeurIPS, ICLR, ICML, AAAI, ACL, AISTATS.
-- **Journal Reviewer: TPAMI, JAIR, TNNLS, NEUNET.
+- **Journal Reviewer:** TPAMI, JAIR, TNNLS, NEUNET.
 
 <!-- # 🏫 Teaching -->
 <!-- Add your teaching experience here -->
@@ -270,7 +270,5 @@ I benefit a lot from these awesome materials. Thanks!
 
 
 
-<!-- <div align=center> -->
-<!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=400&t=tt&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
-<!-- <a href='https://clustrmaps.com/site/1byjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=m&d=EuVM39DBt0G0cQJh20EJFBL7BHU5A5hzsTXUdCbe7Ic&co=ffffff&ct=808080'/></a> -->
-<!-- </div> -->
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-bottom: 1em;">© {{ "now" | date: "%Y" }} {{ site.author.name }} | Last Update: {{ "now" | date: "%Y.%m" }}</p>
+<a href="https://mapmyvisitors.com/web/1c34m"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=-4kffgolvTNKlw4xGPAiWjsh7--JLTmh8PrdAETH9JE&cl=ffffff" /></a>
