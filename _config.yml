@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanke Zhou (Andrew)"
+title                    : "Xiao Feng"
 description              : "Focus on Trustworthy Machine Reasoning."
-repository               : "AndrewZhou924/andrewzhou924.github.io"
+repository               : "shawfeng/shawfeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanke Zhou (Andrew)"
+  name             : "Xiao Feng"
   avatar           : "images/Avatar-square.jpg"
   bio              : "PhD student at HKBU."
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GVXErr0AAAAJ&hl=en"
-  email            : "cszkzhou@comp.hkbu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=TZSDa0UAAAAJ&hl=en"
+  email            : "xiaofeng@comp.hkbu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AndrewZhou924"
+  github           : "shawfeng99"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhankezhou"
+  twitter          :  "feng_xiaofx"
   vine             :
   weibo            :
   xing             :
