@@ -271,4 +271,8 @@ I benefit a lot from these awesome materials. Thanks!
 
 
 <p style="text-align: center; color: #999; font-size: 0.9em; margin-bottom: 1em;">© {{ "now" | date: "%Y" }} {{ site.author.name }} | Last Update: {{ "now" | date: "%Y.%m" }}</p>
-<a href="https://mapmyvisitors.com/web/1c34m"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=-4kffgolvTNKlw4xGPAiWjsh7--JLTmh8PrdAETH9JE&cl=ffffff" /></a>
+<div style="text-align: center;">
+  <a href="https://mapmyvisitors.com/web/1c34m" title="Visit tracker">
+    <img src="https://mapmyvisitors.com/map.png?d=-4kffgolvTNKlw4xGPAiWjsh7--JLTmh8PrdAETH9JE&cl=ffffff" />
+  </a>
+</div>
