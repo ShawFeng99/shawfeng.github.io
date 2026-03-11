@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiao Feng"
-  avatar           : "images/Avatar-square.jpg"
+  avatar           : "images/Avatar-square.png"
   bio              : "PhD student at HKBU."
   location         :
   employer         :

@@ -29,7 +29,9 @@ E-mail: xiaofeng [at] comp.hkbu.edu.hk
 
 
 # 📖 Education and Experience
-- *2022.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
+- *2025.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
+- *2021.09 - 2022.11*, MSc in Artificial Intelligence, University of Southampton.
+- *2017.09 - 2021.06*, B.E. in Computer Science, Lanzhou University.
 
 
 # 📝 Selected Publications
